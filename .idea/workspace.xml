@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1sImXAPLQCd07AIljFMkl3cPqu0" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootResJpaAuthenticationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-res-jpa-authentication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootresjpaauthentication.SpringbootResJpaAuthenticationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="375" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1620568521539">
+      <screen x="0" y="25" width="1440" height="788" />
+    </state>
+    <state x="375" y="250" key="com.intellij.ide.util.TipDialog/0.25.1440.788@0.25.1440.788" timestamp="1620568521539" />
+  </component>
+</project>
